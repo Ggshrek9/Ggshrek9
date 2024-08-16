@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sai do meu perfil
 
-<!--
-**Ggshrek9/Ggshrek9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome não vem ao caso
 
-Here are some ideas to get you started:
+- Uso a alura
+- E uso o java também
+- Uso este espaço pra organizar e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Mas saiba que eu te amo 🐉
+
+- Será que algo pode ser mudado por você? será??
+- 
+- Então se precisar, venha falar comigo. Sabe quem sou eu, não??
