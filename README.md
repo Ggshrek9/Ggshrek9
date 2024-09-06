@@ -2,7 +2,7 @@
 
 - Meu nome não vem ao caso
 
-- Uso a alura
+- Uso a [Alura](https://www.alura.com.br)
 - E uso o java também
 - Uso este espaço pra organizar e compartilhar meus projetos
 
