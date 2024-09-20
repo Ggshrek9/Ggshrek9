@@ -1,6 +1,6 @@
 ## Sai do meu perfil
 
-- Meu nome não vem ao caso
+- Mateus Sena
 
 - Uso a [Alura](https://www.alura.com.br)
 - E uso o java também
